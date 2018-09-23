@@ -1,4 +1,4 @@
-##Memory Game
+## Memory Game
 
 In my Fend Udacity course, I had to create a memory game where upon clicked, two cards match and stay open. Once all cards are matched, a pop up message appears and congratulates the user for winning the game. The pop up gives a score from 1 to 3, how much time it took, and how many moves it took to finish the game. 
 
@@ -14,7 +14,7 @@ In my Fend Udacity course, I had to create a memory game where upon clicked, two
 
 ## How to Play:
 
-Click  *https://fateinn.github.io/memorygame/ to play the game.
+Click  * https://fateinn.github.io/memorygame/ to play the game.
 
 * The goal is to match all the cards together and win the game.
 
@@ -29,7 +29,7 @@ Click  *https://fateinn.github.io/memorygame/ to play the game.
 ## Tools Used: 
 
 * Getting started Udacity excercise: 
-   *https://github.com/udacity/fend-project-memory-game
+   * https://github.com/udacity/fend-project-memory-game
 
 * Images taken from Google-Images>Tools>Usage-Rights>Labeled for reuse with modification
 

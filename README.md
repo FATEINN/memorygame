@@ -12,10 +12,9 @@ In my Fend Udacity course, I had to create a memory game where upon clicked, two
 
 3. Play the game
 
-4. you can also click
-*https://fateinn.github.io/memorygame/ to play the game.
-
 ## How to Play:
+
+##Click *https://fateinn.github.io/memorygame/ to play the game.
 
 * The goal is to match all the cards together and win the game.
 

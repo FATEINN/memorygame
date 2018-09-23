@@ -14,7 +14,7 @@ In my Fend Udacity course, I had to create a memory game where upon clicked, two
 
 ## How to Play:
 
-##Click *https://fateinn.github.io/memorygame/ to play the game.
+Click *https://fateinn.github.io/memorygame/ to play the game.
 
 * The goal is to match all the cards together and win the game.
 
